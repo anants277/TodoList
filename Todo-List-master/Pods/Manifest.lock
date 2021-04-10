@@ -1,0 +1,26 @@
+PODS:
+  - KMPlaceholderTextView (1.4.0)
+  - Realm (5.1.0):
+    - Realm/Headers (= 5.1.0)
+  - Realm/Headers (5.1.0)
+  - RealmSwift (5.1.0):
+    - Realm (= 5.1.0)
+
+DEPENDENCIES:
+  - KMPlaceholderTextView
+  - RealmSwift
+
+SPEC REPOS:
+  trunk:
+    - KMPlaceholderTextView
+    - Realm
+    - RealmSwift
+
+SPEC CHECKSUMS:
+  KMPlaceholderTextView: 2206c3df39979e9396e2d96fa9f427a8951121b0
+  Realm: bdea546851e37b4cf0a2400cef115c7c26fda488
+  RealmSwift: 70945aa168db93b215c460e9c8ef680261aa28af
+
+PODFILE CHECKSUM: dd30497a547d2b58cb53c4ee0c26543a720bcc65
+
+COCOAPODS: 1.8.4
